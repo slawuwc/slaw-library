@@ -4,114 +4,56 @@
 
 @font-face {
     font-family: "Bliss Pro";
-    src: url("/assets/fonts/BlissPro-BoldItalic.woff2") format("woff2"), url("/assets/fonts/BlissPro-BoldItalic.woff") format("woff");
-    font-weight: bold;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: "Bliss Pro";
-    src: url("/assets/fonts/BlissPro-ExtraLightItalic.woff2") format("woff2"), url("/assets/fonts/BlissPro-ExtraLightItalic.woff") format("woff");
-    font-weight: 200;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: "Bliss Pro";
-    src: url("/assets/fonts/BlissPro-ExtraBold.woff2") format("woff2"), url("/assets/fonts/BlissPro-ExtraBold.woff") format("woff");
+    src: url("https://www.uwc.org/_site/fonts/Bliss2-Bold.eot");
+    src: url("https://www.uwc.org/_site/fonts/Bliss2-Bold.eot?#iefix") format("embedded-opentype"), url("https://www.uwc.org/_site/fonts/Bliss2-Bold.woff") format("woff"),
+        url("https://www.uwc.org/_site/fonts/Bliss2-Bold.ttf") format("truetype");
     font-weight: bold;
     font-style: normal;
-    font-display: swap;
 }
 
 @font-face {
     font-family: "Bliss Pro";
-    src: url("/assets/fonts/BlissPro-Bold.woff2") format("woff2"), url("/assets/fonts/BlissPro-Bold.woff") format("woff");
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: "Bliss Pro";
-    src: url("/assets/fonts/BlissPro-ExtraBoldItalic.woff2") format("woff2"), url("/assets/fonts/BlissPro-ExtraBoldItalic.woff") format("woff");
+    src: url("https://www.uwc.org/_site/fonts/Bliss2-BoldItalic.eot");
+    src: url("https://www.uwc.org/_site/fonts/Bliss2-BoldItalic.eot?#iefix") format("embedded-opentype"), url("https://www.uwc.org/_site/fonts/Bliss2-BoldItalic.woff") format("woff"),
+        url("https://www.uwc.org/_site/fonts/Bliss2-BoldItalic.ttf") format("truetype");
     font-weight: bold;
     font-style: italic;
-    font-display: swap;
 }
 
 @font-face {
     font-family: "Bliss Pro";
-    src: url("/assets/fonts/BlissPro-ExtraLight.woff2") format("woff2"), url("/assets/fonts/BlissPro-ExtraLight.woff") format("woff");
-    font-weight: 200;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: "Bliss Pro";
-    src: url("/assets/fonts/BlissPro-LightItalic.woff2") format("woff2"), url("/assets/fonts/BlissPro-LightItalic.woff") format("woff");
+    src: url("https://www.uwc.org/_site/fonts/Bliss2-LightItalic.eot");
+    src: url("https://www.uwc.org/_site/fonts/Bliss2-LightItalic.eot?#iefix") format("embedded-opentype"), url("https://www.uwc.org/_site/fonts/Bliss2-LightItalic.woff") format("woff"),
+        url("https://www.uwc.org/_site/fonts/Bliss2-LightItalic.ttf") format("truetype");
     font-weight: 300;
     font-style: italic;
-    font-display: swap;
 }
 
 @font-face {
     font-family: "Bliss Pro";
-    src: url("/assets/fonts/BlissPro-Heavy.woff2") format("woff2"), url("/assets/fonts/BlissPro-Heavy.woff") format("woff");
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: "Bliss Pro";
-    src: url("/assets/fonts/BlissPro-MediumItalic.woff2") format("woff2"), url("/assets/fonts/BlissPro-MediumItalic.woff") format("woff");
-    font-weight: 500;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: "Bliss Pro";
-    src: url("/assets/fonts/BlissPro-Italic.woff2") format("woff2"), url("/assets/fonts/BlissPro-Italic.woff") format("woff");
+    src: url("https://www.uwc.org/_site/fonts/Bliss2-Italic.eot");
+    src: url("https://www.uwc.org/_site/fonts/Bliss2-Italic.eot?#iefix") format("embedded-opentype"), url("https://www.uwc.org/_site/fonts/Bliss2-Italic.woff") format("woff"),
+        url("https://www.uwc.org/_site/fonts/Bliss2-Italic.ttf") format("truetype");
     font-weight: normal;
     font-style: italic;
-    font-display: swap;
 }
 
 @font-face {
     font-family: "Bliss Pro";
-    src: url("/assets/fonts/BlissPro-HeavyItalic.woff2") format("woff2"), url("/assets/fonts/BlissPro-HeavyItalic.woff") format("woff");
-    font-weight: 900;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: "Bliss Pro";
-    src: url("/assets/fonts/BlissPro.woff2") format("woff2"), url("/assets/fonts/BlissPro.woff") format("woff");
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: "Bliss Pro";
-    src: url("/assets/fonts/BlissPro-Medium.woff2") format("woff2"), url("/assets/fonts/BlissPro-Medium.woff") format("woff");
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: "Bliss Pro";
-    src: url("/assets/fonts/BlissPro-Light.woff2") format("woff2"), url("/assets/fonts/BlissPro-Light.woff") format("woff");
+    src: url("https://www.uwc.org/_site/fonts/Bliss2-Light.eot");
+    src: url("https://www.uwc.org/_site/fonts/Bliss2-Light.eot?#iefix") format("embedded-opentype"), url("https://www.uwc.org/_site/fonts/Bliss2-Light.woff") format("woff"),
+        url("https://www.uwc.org/_site/fonts/Bliss2-Light.ttf") format("truetype");
     font-weight: 300;
     font-style: normal;
-    font-display: swap;
+}
+
+@font-face {
+    font-family: "Bliss Pro";
+    src: url("https://www.uwc.org/_site/fonts/Bliss2.eot");
+    src: url("https://www.uwc.org/_site/fonts/Bliss2.eot?#iefix") format("embedded-opentype"), url("https://www.uwc.org/_site/fonts/Bliss2.woff") format("woff"),
+        url("https://www.uwc.org/_site/fonts/Bliss2.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
 }
 
 $font-branding: "Bliss Pro", sans-serif;
