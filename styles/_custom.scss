@@ -6,10 +6,17 @@ iframe {
 .social-icons img {
     width: auto !important;
     height: 1.5em !important;
-    display: inline-block !important;
     padding: 0 !important;
     margin: 0 0.25em !important;
     border: 0 !important;
+}
+
+.social-icons .image-wrapper {
+    display: inline-block;
+}
+
+.social-icons .image-wrapper .expand-image-btn {
+    display: none;
 }
 
 .branding-label {
