@@ -19,8 +19,11 @@ landing:
 
 
 footer:
-  helpText: Made with ♥ by <a href="mailto:insiders@slawuwc.org">the SLAW Insiders team</a>.
-  defaultEmail: zhang100465@gapps.uwcsea.edu.sg
+  helpText: Made with ♥ by your friends at <a href="mailto:insiders@slawuwc.org">SLAW Insiders</a>.
+  defaultEmail: insiders@slawuwc.org
 
 search:
   placeholder: Search for an activity
+  results:
+    none:
+      suggestion: Can’t find an activity? Contact <a href="mailto:insiders@slawuwc.org">the SLAW Insiders team</a> to get it added!
