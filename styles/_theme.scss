@@ -99,8 +99,12 @@ $font-sans: $font-branding;
 
 // Colors
 //------------------------------------------------------------------------------
-// Default Light Theme
-$masthead-background: $gray-10;
+$uwc-blue: #004C97;
+$uwc-green: #009681;
+
+$accent: $uwc-blue;
+
+$masthead-background: $uwc-blue;
 $main-homepage-background: $white;
 $main-homepage-icon-color: $black;
 $main-homepage-icon-border: $black;
