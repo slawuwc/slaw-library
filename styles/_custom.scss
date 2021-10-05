@@ -22,3 +22,13 @@ iframe {
 .branding-label {
     font-weight: 900 !important;
 }
+.masthead .container .branding .branding-label a:hover {
+    color: #80caff;
+}
+
+.button {
+    transition: all 0.3s;
+}
+.button.btn-cat:hover, .button.btn-homepage:hover {
+    color: #fff !important;
+}
