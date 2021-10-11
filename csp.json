@@ -42,5 +42,8 @@
     ],
     "objectSrc": [
         "'none'"
+    ],
+    "connectSrc": [
+        "*.google-analytics.com"
     ]
 }
