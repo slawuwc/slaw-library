@@ -6,7 +6,8 @@
         "'self'",
         "'unsafe-inline'",
         "cdnjs.cloudflare.com",
-        "*.google-analytics.com"
+        "*.google-analytics.com",
+        "*.googletagmanager.com"
     ],
     "styleSrc": [
         "'self'",
