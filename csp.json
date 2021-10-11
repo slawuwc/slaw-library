@@ -44,6 +44,7 @@
         "'none'"
     ],
     "connectSrc": [
+        "'self'",
         "*.google-analytics.com"
     ]
 }
