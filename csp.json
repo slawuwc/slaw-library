@@ -20,8 +20,7 @@
     "fontSrc": [
         "'self'",
         "fonts.gstatic.com",
-        "maxcdn.bootstrapcdn.com",
-        "*.uwc.org"
+        "maxcdn.bootstrapcdn.com"
     ],
     "imgSrc": [
         "'self'",
