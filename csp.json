@@ -45,6 +45,8 @@
     ],
     "connectSrc": [
         "'self'",
-        "*.google-analytics.com"
+        "*.google-analytics.com",
+        "perfalytics.com",
+        "*.perfalytics.com"
     ]
 }
