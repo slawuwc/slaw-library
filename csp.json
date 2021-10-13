@@ -7,7 +7,8 @@
         "'unsafe-inline'",
         "cdnjs.cloudflare.com",
         "*.google-analytics.com",
-        "*.googletagmanager.com"
+        "*.googletagmanager.com",
+        "*.perfalytics.com"
     ],
     "styleSrc": [
         "'self'",
