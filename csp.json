@@ -8,7 +8,7 @@
         "cdnjs.cloudflare.com",
         "*.google-analytics.com",
         "*.googletagmanager.com",
-        "*.perfalytics.com"
+        "perfalytics.com"
     ],
     "styleSrc": [
         "'self'",
