@@ -46,7 +46,6 @@
     "connectSrc": [
         "'self'",
         "*.google-analytics.com",
-        "perfalytics.com",
-        "*.perfalytics.com"
+        "*.consensu.org"
     ]
 }
