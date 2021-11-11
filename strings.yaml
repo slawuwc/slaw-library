@@ -3,7 +3,7 @@ branding:
   prettyName: Student-Led Activities Wiki
   org: United World College of South East Asia
   icon: /assets/images/icon-logo.svg
-  favicon: /assets/images/library.ico
+  # favicon: /assets/images/library.ico
 
 landing:
   tagline: An interactive guide to UWCSEA activities.
