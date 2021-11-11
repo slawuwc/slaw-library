@@ -2,7 +2,8 @@ branding:
   name: SLAW
   prettyName: Student-Led Activities Wiki
   org: United World College of South East Asia
-  icon: /assets/images/icon-logo.svg
+  icon: /assets/images/icon.png
+  logo: /assets/images/logo.png
   # favicon: /assets/images/library.ico
 
 landing:

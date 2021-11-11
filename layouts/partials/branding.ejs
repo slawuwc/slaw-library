@@ -1,14 +1,18 @@
 <div class="branding">
+    <% const shouldLink = locals.context !== 'home' %> <% if (shouldLink) { %>
     <h2 class="branding-heading">
-        <% const shouldLink = locals.context !== 'home' %>
-        <% if (shouldLink) { %><a id="branding-heading-link" href="/" ><% } %>
+        <a id="branding-heading-link" href="/">
             <span class="visually-hidden"><%- template('branding.org') %></span>
             <img src=<%- template('branding.icon') %> class="logo" alt="<%- template('branding.org') %>">
-        <% if (shouldLink) { %></a><% } %>
+        </a>
     </h2>
-    <% if (shouldLink) { %>
-        <h3 class="branding-label">
-            <a class="content-link" href="/"> <%- template('branding.name') %> </a>
-        </h3>
+    <h3 class="branding-label">
+        <a class="content-link" href="/"> <%- template('branding.name') %> </a>
+    </h3>
+    <% } else { %>
+        <h2 class="branding-heading">
+            <span class="visually-hidden"><%- template('branding.org') %></span>
+            <img src=<%- template('branding.logo') %> class="logo home" alt="<%- template('branding.org') %>">
+        </h2>
     <% } %>
 </div>
