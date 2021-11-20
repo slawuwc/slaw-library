@@ -36,3 +36,9 @@ iframe {
 .logo.home {
     height: 128px !important;
 }
+
+.masthead .container .branding .branding-heading .logo {
+    filter: none !important;
+    margin-left: 0 !important;
+    margin-top: 3px;
+}
