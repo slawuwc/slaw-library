@@ -12,10 +12,10 @@ landing:
   quickLink: <a href="/activities">See all activities</a>.
   modules:
   #   - tag: team
-  #     label: Find by grade
+  #     label: Find by Grade
   #     style: button
     - tag: featured
-      label: Useful Docs
+      label: Quick Access
       style: docs
 
 
