@@ -1,30 +1,26 @@
 branding:
-  name: SLAW
-  prettyName: Student-Led Activities Wiki
-  org: United World College of South East Asia
-  icon: /assets/images/icon.png
-  logo: /assets/images/logo.png
-  # favicon: /assets/images/library.ico
+    name: SLAW
+    prettyName: Student-Led Activities Wiki
+    org: United World College of South East Asia
+    icon: /assets/images/icon.png
+    logo: /assets/images/logo.png
+    # favicon: /assets/images/library.ico
 
 landing:
-  tagline: An interactive guide to UWCSEA activities.
-  viewAll: All Activities
-  quickLink: <a href="/activities">See all activities</a>.
-  modules:
-  #   - tag: team
-  #     label: Find by Grade
-  #     style: button
-    - tag: featured
-      label: Quick Access
-      style: docs
-
+    tagline: An interactive guide to UWCSEA activities.
+    viewAll: All Activities
+    quickLink: <a href="/activities">See all activities</a>.
+    modules:
+        - tag: featured
+          label: Featured activities
+          style: docs
 
 footer:
-  helpText: Made with ♥ by your friends at <a href="mailto:insiders@slawuwc.org">SLAW Insiders</a>.
-  defaultEmail: insiders@slawuwc.org
+    helpText: Made with ♥ by your friends at <a href="mailto:insiders@slawuwc.org">SLAW Insiders</a>.
+    defaultEmail: insiders@slawuwc.org
 
 search:
-  placeholder: Search for an activity
-  results:
-    none:
-      suggestion: Can’t find an activity? Contact <a href="mailto:insiders@slawuwc.org">the SLAW Insiders team</a> to get it added!
+    placeholder: Search for an activity
+    results:
+        none:
+            suggestion: Can’t find an activity? Contact <a href="mailto:insiders@slawuwc.org">the SLAW Insiders team</a> to get it added!
