@@ -29,7 +29,8 @@ iframe {
 .button {
     transition: all 0.3s;
 }
-.button.btn-cat:hover, .button.btn-homepage:hover {
+.button.btn-cat:hover,
+.button.btn-homepage:hover {
     color: #fff !important;
 }
 
@@ -41,4 +42,32 @@ iframe {
     filter: none !important;
     margin-left: 0 !important;
     margin-top: 3px;
+}
+
+#slaw-notice {
+    margin-top: 50px;
+}
+
+.notice {
+    padding: 1rem;
+    border: 1px solid transparent;
+    text-align: center;
+}
+
+.notice-blue {
+    color: #084298;
+    background-color: #cfe2ff;
+    border-color: #b6d4fe;
+}
+
+.notice-green {
+    color: #0f5132;
+    background-color: #d1e7dd;
+    border-color: #badbcc;
+}
+
+.notice-gray {
+    color: #41464b;
+    background-color: #e2e3e5;
+    border-color: #d3d6d8;
 }
