@@ -16,11 +16,11 @@ landing:
           style: docs
 
 footer:
-    helpText: Made with ♥ by your friends at <a href="mailto:insiders@slawuwc.org">SLAW Insiders</a>.
+    helpText: Made with ♥ by your friends at <a href="mailto:doverslaw@gapps.uwcsea.edu.sg">SLAW Insiders</a>.
     defaultEmail: insiders@slawuwc.org
 
 search:
     placeholder: Search for an activity
     results:
         none:
-            suggestion: Can’t find an activity? Contact <a href="mailto:insiders@slawuwc.org">the SLAW Insiders team</a> to get it added!
+            suggestion: Can’t find an activity? Contact <a href="mailto:doverslaw@gapps.uwcsea.edu.sg">the SLAW Insiders team</a> to get it added!
